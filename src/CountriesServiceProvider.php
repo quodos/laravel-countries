@@ -1,4 +1,4 @@
-<?php namespace Quodos\LaravelCountries;
+<?php namespace Quodos\Countries;
 
 use Illuminate\Support\ServiceProvider as LaravelServiceProvider;
 
